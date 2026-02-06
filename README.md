@@ -31,7 +31,7 @@ Run the notebooks in order:
 4) 04_gradient_boosting.ipynb
 
 📌 Notes: 
-- The project focuses on methodology and interpretability, not black-box optimization.
+- The project focuses on methodology and interpretability.
 - All modeling choices are justified and discussed in the report.
 - Results should be interpreted in the context of real market data limitations.
 
