@@ -12,6 +12,7 @@ The project follows a progressive and structured methodology:
 - Linear regression as an interpretable baseline,
 - Random Forest to capture non-linear effects,
 - Gradient Boosting as a more refined non-linear model.
+
 All results are documented and analyzed in a final PDF report generated with LaTeX.
 
 Dataset:
