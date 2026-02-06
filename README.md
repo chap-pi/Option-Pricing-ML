@@ -14,28 +14,6 @@ The project follows a progressive and structured methodology:
 - Gradient Boosting as a more refined non-linear model.
 All results are documented and analyzed in a final PDF report generated with LaTeX.
 
-Project Structure:
-├── data/
-│   ├── raw/
-│      └── aapl_2021_2023.csv 
-│
-├── notebooks/
-    ├── data/
-    │    ├── processed/
-│   │            └── aapl_calls_ml_dataset.csv
-│   ├── 01_Data Clean.ipynb
-│   ├── 02_Linear Regression.ipynb
-│   ├── 03_Random Forest.ipynb
-│   └── 04_GradientBoosting.ipynb
-│
-├── report/
-│    ├── figures/
-│    ├── report.md
-│    ├── template.tex
-│
-├── requirements.txt
-└── README.md
-
 Dataset:
 The raw dataset contains historical option market data for Apple (AAPL), including prices, implied volatility, maturities, strikes...
 Source:
